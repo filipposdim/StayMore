@@ -1,4 +1,4 @@
-## NB. The data file is corrupt, thus removed. The resulting report can be seen in the PowerBI (web) app.
+## NB. The data file is corrupt, thus removed. The resulting report can be seen in the PowerBI (web) app and in a simple format, in the images in the repo.
 
 # Project_StayMore
 Project StayMore is an AirBNB variant we delivered as the capstone project of the Business Intelligence & Data Sciences Academy.
